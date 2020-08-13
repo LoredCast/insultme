@@ -21,8 +21,8 @@ cap = cv2.VideoCapture(0)
 
 speak = wincl.Dispatch("SAPI.SpVoice")
 
-choices_ger = ["du spaßt", "eigentlich ein hässliches lächeln", "kannst eigentlich gleich sterben",
-               "wieso überhaupt lächeln mit so nem behindertem lächeln", "du hurensohn",
+choices_ger = ["lieber nicht", "eigentlich ein hässliches lächeln",
+               "wieso überhaupt lächeln mit so nem unglücklichen lächeln",
                "Wieso grinst du so behindert", "also gut sieht das nicht aus", "einem Affen würdest du gefallen"]
                
 choices_en = ["You ugly piece of cardboard lol", "you wanker", "a smile that haunts me like hell",
